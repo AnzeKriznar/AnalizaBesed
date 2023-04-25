@@ -13,3 +13,6 @@ Dve zvezdici za **debelo**, ena zvezdica za *ležeče*. Besedilo lahko tudi ~~pr
 def f(x):
     retrun 21
 '''
+
+# Avtorji
+:)

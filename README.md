@@ -9,7 +9,11 @@ Bla bla
 
 Dve zvezdici za **debelo**, ena zvezdica za *ležeče*. Besedilo lahko tudi ~~prečrtamo~~ ali pa ga oblikujemo kot kodo:
 
-'''
+```
 def f(x):
     retrun 21
-'''
+```
+
+# Avtorji
+
+- Anže Križnar

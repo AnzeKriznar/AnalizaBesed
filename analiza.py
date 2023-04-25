@@ -19,7 +19,8 @@ def relativne_frekvence(besede):
     with open("frekvence.csv", "w", encoding="utf-8") as f:
         for crka, frek in frekvence.items():
             print(f"{crka},{frek:.2e}", file=f)
-
+def dodatno():
+    return 21
 
 vse_besede = nalozi_besede()
 relativne_frekvence(vse_besede)
